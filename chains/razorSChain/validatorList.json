@@ -1,9 +1,9 @@
 
    {
     "validators": {
-        "10": {
-            "address": "0x1da523226d1a3e9b4f9998479c4a1558c64207df",
-            "name": "Dev",
+        "12": {
+            "address": "0xb0322ab19732e24985befa8f24a2362bca85fe5a",
+            "name": "Mainnet Validator",
             "website": "https://google.com/",
             "logo": "stakin.jpeg"
         }
