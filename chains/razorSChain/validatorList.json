@@ -1,11 +1,29 @@
 
    {
     "validators": {
+        "11": {
+            "address": "0xbaa7bf90da8c2355a287c12de2e9fc3676ccd620",
+            "name": "Stakin",
+            "website": "https://stakin.com/",
+            "logo": "stakin.jpeg"
+        },
         "12": {
             "address": "0xb0322ab19732e24985befa8f24a2362bca85fe5a",
-            "name": "Mainnet Validator",
-            "website": "https://google.com/",
-            "logo": "stakin.jpeg"
+            "name": "Terminet",
+            "website": "https://terminet.io/",
+            "logo": "terminet.jpeg"
+        },
+        "18": {
+            "address": "0x9A2BC93D564C722fB79e73779BeDb79da810705D",
+            "name": "NGC StakeX",
+            "website": "https://www.ngc.fund/",
+            "logo": "ngc.png"
+        },
+        "13": {
+            "address": "0x7b079fb00ed5a201bd069aa299834ecd24e42f13",
+            "name": "StakingCabin",
+            "website": "https://stakingcabin.com/",
+            "logo": "stakingcabin.jpeg"
         }
     }
    }
