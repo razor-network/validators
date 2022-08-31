@@ -3,14 +3,8 @@
     "validators": {
         "10": {
             "address": "0x1da523226d1a3e9b4f9998479c4a1558c64207df",
-            "name": "Dev1",
+            "name": "Dev",
             "website": "https://google.com/",
-            "logo": "stakin.jpeg"
-        },
-        "11": {
-            "address": "0xbaa7bf90da8c2355a287c12de2e9fc3676ccd620",
-            "name": "Stakin Validator",
-            "website": "https://stakin.com/home",
             "logo": "stakin.jpeg"
         }
     }
