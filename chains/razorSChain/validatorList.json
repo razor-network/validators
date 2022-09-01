@@ -24,6 +24,12 @@
             "name": "StakingCabin",
             "website": "https://stakingcabin.com/",
             "logo": "stakingcabin.jpeg"
+        },
+        "19": {
+            "address": "0x66F284192cb948F128Cebd3B52494E2276d09B58",
+            "name": "Validatrium",
+            "website": "https://validatrium.com/",
+            "logo": "validatrium.jpeg"
         }
     }
    }
