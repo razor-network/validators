@@ -30,6 +30,12 @@
             "name": "Validatrium",
             "website": "https://validatrium.com/",
             "logo": "validatrium.jpeg"
+        },
+        "6": {
+            "address": "0x7ee4e7a1403db07c6908ef29c00f20270a28fd2d",
+            "name": "FutureWave",
+            "website": "https://futurewave.sh/",
+            "logo": "futurewave.jpg"
         }
     }
    }
