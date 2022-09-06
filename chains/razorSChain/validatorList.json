@@ -36,6 +36,12 @@
             "name": "FutureWave",
             "website": "https://futurewave.sh/",
             "logo": "futurewave.jpg"
+        },
+        "21": {
+            "address": "0x4896a2c4a437d3110eb8a75a1a2f51cfe6c7df0b",
+            "name": "FiberBlock",
+            "website": "https://fiberblock.io/",
+            "logo": "fiberblock.png"
         }
     }
    }
