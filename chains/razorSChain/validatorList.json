@@ -42,6 +42,12 @@
             "name": "FiberBlock",
             "website": "https://fiberblock.io/",
             "logo": "fiberblock.png"
+        },
+        "20": {
+            "address": "0x17404d7880d305b3e65698b5551fb21639294ceb",
+            "name": "CommunityStake",
+            "website": "",
+            "logo": "communitystake.jpg"
         }
     }
    }
