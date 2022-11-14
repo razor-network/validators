@@ -49,5 +49,11 @@
             "website": "",
             "logo": "communitystake.jpg"
         }
+	"26": {
+	   "address": "0x353f232de25fd18b8328c2128674a39ad9adfef9",
+            "name": "InfStones",
+            "website": "https://infstones.com/",
+            "logo": "infstones.png" 
+	}
     }
    }
