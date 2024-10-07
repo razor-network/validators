@@ -1,3 +1,10 @@
 {
-  "validators": {}
+  "validators": {
+      "5": {
+          "address": "0x66F284192cb948F128Cebd3B52494E2276d09B58",
+          "name": "Validatrium",
+          "website": "https://validatrium.com/",
+          "logo": "validatrium.jpeg"
+      }
+  }
 }
