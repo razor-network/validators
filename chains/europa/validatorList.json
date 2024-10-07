@@ -5,6 +5,12 @@
       "name": "StakingCabin",
       "website": "https://stakingcabin.com/",
       "logo": "stakingcabin.jpeg"
+    },
+    "4": {
+      "address": "0x83398CE944282CB832AF7a2f332D7F44FF8DC0c8",
+      "name": "akmish.eth",
+      "Website": "https://www.ashishkumarmishra.me",
+      "logo": "akmish.png"
     }
   }
 }
