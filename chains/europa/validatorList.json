@@ -1,3 +1,10 @@
 {
-  "validators": {}
+  "validators": {
+    "5": {
+      "address": "0x7b079fb00ed5a201bd069aa299834ecd24e42f13",
+      "name": "StakingCabin",
+      "website": "https://stakingcabin.com/",
+      "logo": "stakingcabin.jpeg"
+    }
+  }
 }
