@@ -1,10 +1,28 @@
 {
   "validators": {
-      "5": {
-          "address": "0x66F284192cb948F128Cebd3B52494E2276d09B58",
-          "name": "Validatrium",
-          "website": "https://validatrium.com/",
-          "logo": "validatrium.jpeg"
-      }
+    "5": {
+      "address": "0x7b079fb00ed5a201bd069aa299834ecd24e42f13",
+      "name": "StakingCabin",
+      "website": "https://stakingcabin.com/",
+      "logo": "stakingcabin.jpeg"
+    },
+    "4": {
+      "address": "0x83398CE944282CB832AF7a2f332D7F44FF8DC0c8",
+      "name": "akmish.eth",
+      "Website": "https://www.ashishkumarmishra.me",
+      "logo": "akmish.png"
+    },
+    "7": {
+          "address": "0x17404D7880d305b3E65698b5551fB21639294CeB",
+          "name": "CommunityStake",
+          "website": "",
+          "logo": "communitystake.jpg"
+    },
+    "6": {
+            "address": "0x66F284192cb948F128Cebd3B52494E2276d09B58",
+            "name": "Validatrium",
+            "website": "https://validatrium.com/",
+            "logo": "validatrium.jpeg"
+    }
   }
 }
