@@ -29,6 +29,12 @@
 	    "name": "StakeShack",
 	    "Website": "",
 	    "logo": "shacklogo.jpg"
+    },
+    "1": {
+        "address": "0xc4c36e0f9bfff6064413791abd2e38a9ba27d07c",
+        "name": "Atlas Nodes",
+        "Website": "",
+        "logo": "atlas_nodes.png"
     }
   }
 }
