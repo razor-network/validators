@@ -23,6 +23,24 @@
             "name": "Validatrium",
             "website": "https://validatrium.com/",
             "logo": "validatrium.jpeg"
-    }
+    },
+    "8": {
+	    "address": "0xbdd030dbff6cdda1613d9249431fc285e16d7ee5",
+	    "name": "StakeShack",
+	    "Website": "",
+	    "logo": "shacklogo.jpg"
+    },
+    "1": {
+        "address": "0xc4c36e0f9bfff6064413791abd2e38a9ba27d07c",
+        "name": "Atlas Nodes",
+        "Website": "",
+        "logo": "atlas_nodes.png"
+    },
+    "9": {
+	    "address": "0x9f13929467EE138d465bb5dAb717693637B68656",
+	    "name": "ByteVariety",
+	    "Website": "https://bytevariety.com/",
+	    "logo": "bytevariety.jpeg"
+	}
   }
 }
