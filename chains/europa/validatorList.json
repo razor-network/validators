@@ -35,6 +35,12 @@
         "name": "Atlas Nodes",
         "Website": "",
         "logo": "atlas_nodes.png"
-    }
+    },
+    "9": {
+	    "address": "0x9f13929467EE138d465bb5dAb717693637B68656",
+	    "name": "ByteVariety",
+	    "Website": "https://bytevariety.com/",
+	    "logo": "bytevariety.jpeg"
+	}
   }
 }
