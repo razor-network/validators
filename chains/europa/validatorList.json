@@ -41,6 +41,12 @@
 	    "name": "ByteVariety",
 	    "Website": "https://bytevariety.com/",
 	    "logo": "bytevariety.jpeg"
-	}
+	},
+    "10": {
+        "address": "0x353f232dE25fD18b8328C2128674A39aD9ADFEF9",
+        "name": "InfStones",
+        "website": "https://infstones.com/",
+        "logo": "infstones.png" 
+    }
   }
 }
