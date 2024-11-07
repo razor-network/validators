@@ -47,6 +47,12 @@
         "name": "InfStones",
         "website": "https://infstones.com/",
         "logo": "infstones.png" 
+    },
+    "11": {
+        "address": "0x9A2BC93D564C722fB79e73779BeDb79da810705D",
+        "name": "NGC StakeX",
+        "website": "https://www.ngc.fund/",
+        "logo": "ngc.png"
     }
   }
 }
