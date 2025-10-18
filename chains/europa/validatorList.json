@@ -53,6 +53,12 @@
         "name": "NGC StakeX",
         "website": "https://www.ngc.fund/",
         "logo": "ngc.png"
+    },
+    "12": {
+        "address": "0x25aab91075d9b6befa3d31676ed531dab7985f3e",
+        "name": "CrewcutSpace",
+        "website": "",
+        "logo": "crewcutspace.jpg"
     }
   }
 }
